@@ -1,2 +1,3 @@
-# csgo-config-changer
-Simply input a command and value to be changed and let all the behind-the-scenes work be executed automatically
+# CSGO-Config-Changer
+
+CSGO-Config-Changer is a program that allows a user to update their CS:GO config without having to manually locate and manipulate data.
